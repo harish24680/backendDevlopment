@@ -15,5 +15,8 @@ About back end and server side
 - https://mochajs.org/
 - https://www.youtube.com/watch?v=Bs68k6xfR3E
 
+# formatters:
+- https://medium.com/better-programming/eslint-vs-prettier-57882d0fec1d
+
 # Youtube server side auth:
 - https://developers.google.com/youtube/v3/guides/auth/server-side-web-apps#python
