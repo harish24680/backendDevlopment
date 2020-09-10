@@ -9,3 +9,6 @@ About back end and server side
 
 # About Express frameWork:
 - https://www.guru99.com/node-js-express.html
+
+# Youtube server side auth:
+- https://developers.google.com/youtube/v3/guides/auth/server-side-web-apps#python
