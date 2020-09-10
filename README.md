@@ -11,5 +11,9 @@ About back end and server side
 - https://www.guru99.com/node-js-express.html
 - https://snipcart.com/blog/javascript-nodejs-backend-development
 
+# Node js framwork testing:
+- https://mochajs.org/
+- https://www.youtube.com/watch?v=Bs68k6xfR3E
+
 # Youtube server side auth:
 - https://developers.google.com/youtube/v3/guides/auth/server-side-web-apps#python
