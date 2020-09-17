@@ -5,6 +5,7 @@ About back end and server side
 - https://www.digitalocean.com/community/tutorials/5-ways-to-improve-your-production-web-application-server-setup
 - https://reinvently.com/blog/fundamentals-web-application-architecture/
 - https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101
+- https://www.intellectsoft.net/blog/mobile-app-architecture/
 # Frame works
 - https://www.kelltontech.com/kellton-tech-blog/7-most-popular-backend-web-development-frameworks-2020
 - https://www.kelltontech.com/kellton-tech-blog/top-7-backend-web-development-frameworks-2019
