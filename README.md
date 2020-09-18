@@ -1,6 +1,9 @@
 # backendDevlopment
 About back end and server side
 
+# Authentication and authorization:
+- https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node
+
 # Architecture Design:
 - https://www.digitalocean.com/community/tutorials/5-ways-to-improve-your-production-web-application-server-setup
 - https://reinvently.com/blog/fundamentals-web-application-architecture/
