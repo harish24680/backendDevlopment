@@ -1,6 +1,9 @@
 # backendDevlopment
 About back end and server side
 
+# Stack:
+- https://medium.com/@iTechArt/most-popular-technology-stacks-for-startups-8a390df66a76#:~:text=Two%20of%20the%20most%20commonly,server%20and%20client%2Dside%20projects.
+
 # Authentication and authorization:
 - https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node
 
